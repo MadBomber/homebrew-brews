@@ -1,10 +1,10 @@
 # lutostag Brews
 
-## How do I install these formulae?
+## How do I install this formulae?
 
-`brew install lutostag/brews/<formula>`
+`brew install madbomber/tap/justprep`
 
-Or `brew tap lutostag/brews` and then `brew install <formula>`.
+Or `brew tap madbomber/tap` and then `brew install justprep`.
 
 ## Documentation
 
